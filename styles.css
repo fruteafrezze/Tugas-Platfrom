@@ -1,0 +1,42 @@
+/* Styling untuk judul utama */
+.judul {
+    text-align: center;
+    font-size: 30px;
+    color: #007bff;
+}
+
+/* Styling paragraf deskripsi */
+.deskripsi {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Subjudul */
+.subjudul {
+    font-size: 20px;
+    color: #ff5722;
+}
+
+/* Styling daftar teman */
+.list-teman {
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Styling tabel */
+.tabel-matkul {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.tabel-matkul th {
+    background: #007bff;
+    color: white;
+}
+
+.tabel-matkul td, .tabel-matkul th {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
